@@ -1,4 +1,4 @@
-# Alteryx Workflows 👩‍💻
+# Alteryx Workflows 
 
 - We have used Alteryx for calculating R Score, F Score, and M Score For RFM Analysis and Segmentation of customers. 
 - Alteryx is used to automate data processes more quickly and efficiently. It collects, prepares, and blends data that may otherwise be time-consuming or impossible to combine using other tools. 
