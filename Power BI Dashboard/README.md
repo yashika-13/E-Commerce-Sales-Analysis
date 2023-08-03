@@ -1,14 +1,13 @@
-# E-Commerce Sales Analysis Dashboard 👩‍💻
+# E-Commerce Sales Analysis Dashboard 
 
-► In this project, we have analyzed an Indian E-commerce store dataset. <br>
+► In this project, we have analyzed an E-commerce store dataset. <br>
 ► Dataset is from Kaggle, and consists of 3 csv files- List of Orders, Order details, and Sales target. <br>
 ► List of Orders-This dataset contains purchase information. The information includes ID, Date of Purchase and customer details. <br>
 ► Order Details- This dataset contains order ID, with the order price, quantity, profit, category and subcategory of product.<br>
 ► Sales target-This dataset contains sales target amount and date for each product category. <br>
 ► Also, performed RFM Analysis which gives more clarity to the business about it's customers. <br>
-► Power BI dashboard - https://www.novypro.com/project/powerbi-23
 
-# 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗥𝗙𝗠 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀? 👩‍💻 <br>
+# 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗥𝗙𝗠 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀?  <br>
 
 ► RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to segment customers based on their purchase behavior. <br>
 ► It involves analyzing the recency (how recently a customer made a purchase), frequency (how often a customer makes a purchase), and monetary value (how much a customer spends) of their transactions. <br>
@@ -17,7 +16,7 @@
 
 # 𝑲𝒆𝒚 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔: <br>
 
-🎯𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
+𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
 
 • 63% of total orders is from Clothing category. <br>
 • 68% orders are Profitable, 30% orders are giving Loss & 2% are None. <br>
@@ -26,7 +25,7 @@
 • Electronics making the most revenue i.e., 37% <br>
 • Electronic games & Tables sub-categories orders are not profitable to the business. <br>
 
-🎯𝗢𝗿𝗱𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
+𝗢𝗿𝗱𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
 
 • There are total 331 customers with 440 unique orders. <br>
 • Madhya Pradesh is the most profitable state i.e., Rs.7K <br>
@@ -35,7 +34,7 @@
 • Indore, Delhi, Allahabad and Mumbai are cities with most profits. <br>
 • Average Cost price & Selling price is approximately Rs. 1 Lakh per state. <br>
 
-🎯𝗥𝗙𝗠 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
+𝗥𝗙𝗠 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
 
 • There are 2 customers with 444 RFM Score. <br>
 • RFM Analysis shows that the company has more count of Gold customers and less count of Platinum customers. <br>
